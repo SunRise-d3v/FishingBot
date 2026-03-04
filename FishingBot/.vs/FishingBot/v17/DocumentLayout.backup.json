@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FishingBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\utils\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\utils\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\data\\fishstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\data\\fishstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\core\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\core\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\bot\\host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\bot\\host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|c:\\users\\user\\source\\repos\\fishingbot\\fishingbot\\fishingbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92181415-17BA-4AE3-BD44-DAF57CD6067A}|FishingBot\\FishingBot.csproj|solutionrelative:fishingbot\\fishingbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 363,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Data\\Inventory.cs",
+              "RelativeDocumentMoniker": "FishingBot\\Data\\Inventory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Data\\Inventory.cs",
+              "RelativeToolTip": "FishingBot\\Data\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:39:31.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FishStorage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Data\\FishStorage.cs",
+              "RelativeDocumentMoniker": "FishingBot\\Data\\FishStorage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Data\\FishStorage.cs",
+              "RelativeToolTip": "FishingBot\\Data\\FishStorage.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:29:42.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Enums.cs",
+              "RelativeDocumentMoniker": "FishingBot\\Enums.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Enums.cs",
+              "RelativeToolTip": "FishingBot\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBDwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:24:27.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Fish.cs",
+              "RelativeDocumentMoniker": "FishingBot\\Fish.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Fish.cs",
+              "RelativeToolTip": "FishingBot\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:00:46.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Utils\\Tools.cs",
+              "RelativeDocumentMoniker": "FishingBot\\Utils\\Tools.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Utils\\Tools.cs",
+              "RelativeToolTip": "FishingBot\\Utils\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:35:56.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Bot\\Program.cs",
+              "RelativeDocumentMoniker": "FishingBot\\Bot\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Bot\\Program.cs",
+              "RelativeToolTip": "FishingBot\\Bot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:34:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Host.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Bot\\Host.cs",
+              "RelativeDocumentMoniker": "FishingBot\\Bot\\Host.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Bot\\Host.cs",
+              "RelativeToolTip": "FishingBot\\Bot\\Host.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:33:33.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Core\\Account.cs",
+              "RelativeDocumentMoniker": "FishingBot\\Core\\Account.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\Core\\Account.cs",
+              "RelativeToolTip": "FishingBot\\Core\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:32:52.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FishingBot.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\FishingBot.csproj",
+              "RelativeDocumentMoniker": "FishingBot\\FishingBot.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FishingBot\\FishingBot\\FishingBot.csproj",
+              "RelativeToolTip": "FishingBot\\FishingBot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T18:32:36.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
